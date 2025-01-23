@@ -144,9 +144,3 @@ We use:
 3. **Deep Learning:** Implementing BiLSTM for text classification.
 4. **Performance Metrics**: Using accuracy, precision, recall, F1-score, confusion matrix, ROC, and precision-recall curves for evaluation.
 5. **Model Building:** Practical experience with diverse machine learning and deep learning models.
-
----
-content_copy
-download
-Use code with caution.
-Markdown
